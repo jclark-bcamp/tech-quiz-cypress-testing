@@ -1,6 +1,6 @@
 import Quiz from './Quiz';
 
-describe ('Quiz component', () => {
+describe ('Quiz Component', () => {
     beforeEach(() => {
         cy.visit('http://localhost:3000');
     })});
